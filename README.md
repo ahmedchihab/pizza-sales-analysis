@@ -38,3 +38,17 @@ This is my first public project using Excel and GitHub!
 ---
 
 > 📌 Created by AHMED CHIHAB https://github.com/ahmedchihab
+
+>pizza-sales-analysis/
+│
+├── data/
+│   └── pizza_sales_cleaned.xlsx
+│
+├── visuals/
+│   └── dashboard.png
+│
+├── report/
+│   └── Pizza_Sales_Report.pdf
+│
+├── README.md
+
